@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e25bdd2-bcb8-46d0-8695-774f7a628333" name="Changes" comment="윤수빈 더하기 기능 추가 및 Application 추가">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/run/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/run/Calculator.java" afterDir="false" />
+    <list default="true" id="3e25bdd2-bcb8-46d0-8695-774f7a628333" name="Changes" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "ys",
+    "git-widget-placeholder": "eunseong",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -48,7 +48,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/lecture/Calculator-team-project/src/main/java/com/ohgiraffers/Main.java",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -69,6 +69,7 @@
       <updated>1708475793546</updated>
       <workItem from="1708475794698" duration="59000" />
       <workItem from="1708476139949" duration="369000" />
+      <workItem from="1708481712641" duration="21000" />
     </task>
     <task id="LOCAL-00001" summary="윤수빈 더하기 기능 추가 및 Application 추가">
       <option name="closed" value="true" />
@@ -78,16 +79,48 @@
       <option name="project" value="LOCAL" />
       <updated>1708476446635</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1708481516309</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708481516309</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1708481606640</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708481606640</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
     <MESSAGE value="윤수빈 더하기 기능 추가 및 Application 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="윤수빈 더하기 기능 추가 및 Application 추가" />
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="initial commit2" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
